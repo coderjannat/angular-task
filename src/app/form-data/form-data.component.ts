@@ -6,5 +6,9 @@ import { Component } from '@angular/core';
   styleUrls: ['./form-data.component.css'],
 })
 export class FormDataComponent {
-  
+  postTitle:string;
+  postDetail:string;
+  imageURL: string;
+  postURL: string;
+  addBackground:boolean;
 }
