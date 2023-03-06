@@ -1,0 +1,14 @@
+h1 {
+  text-align: center;
+  text-decoration: underline;
+}
+h4 {
+  text-align: center;
+}
+.table-area {
+  position: absolute;
+  left: 30%;
+}
+.table-area th {
+  padding: 10px;
+}
