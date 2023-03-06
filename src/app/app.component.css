@@ -1,0 +1,23 @@
+h1 {
+  text-align: center;
+  text-decoration: underline;
+}
+.container {
+  display: grid;
+
+  grid: 150px / auto auto;
+  /* grid-gap: 10px; */
+  /* padding: 10px; */
+}
+
+.container > div {
+  background-color: rgba(255, 255, 255, 0.8);
+  text-align: center;
+  padding: 20px 0;
+  font-size: 30px;
+}
+
+.add-background {
+  background-color: aquamarine;
+  padding: 10px;
+}
